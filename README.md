@@ -1,16 +1,29 @@
-### Hi there 👋
+# Gabriel Medeiros
 
-<!--
-**gjmedeiros/gjmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a FullStack developer, graduated in Computer Science (Bachelor).
 
-Here are some ideas to get you started:
+I have been working for 2 years with the Java Language, but I have knowledge of JavaScript both on the front-end and on the back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Enthusiastic about new technologies, I always seek to renew myself.
+
+<h3 align="center">Contact Me</h3>
+
+<p align="center" style="margin-right:5px;">
+  <a href="https://www.linkedin.com/in/gabriel-medeiros-79a02715a/">
+    <img 
+    align="center"
+    height="30"
+    width="30"
+    alt="Linkedin" 
+    src="https://github.com/gjmedeiros/badges-and-icons/blob/master/icons/linkedin.svg"/>
+  </a>
+
+  <a href="gabriel.m.goncalves@outlook.com">
+    <img 
+    align="center"
+    height="30"
+    width="30"
+    alt="Email" 
+    src="https://github.com/gjmedeiros/badges-and-icons/blob/master/icons/email.svg"/>
+  </a>
+</p>
