@@ -1,6 +1,4 @@
-## Olá Bem Vindo ao meu GitHub
-
-<br />
+## Olá, Seja Bem Vindo ao meu GitHub ✌
 
 I am a FullStack developer, graduated in Computer Science (Bachelor). I have
 been working for 2 years with the Java Language, but I have knowledge of
