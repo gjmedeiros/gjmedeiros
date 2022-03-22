@@ -1,7 +1,7 @@
 ## Olá, Seja Bem Vindo ao meu GitHub ✌
 
 I am a FullStack developer, graduated in Computer Science (Bachelor). I have
-been working for 2 years with the Java Language, but I have knowledge of
+been working for 3 years with the Java Language, but I have knowledge of
 JavaScript both on the front-end and on the back-end. Enthusiastic about new
 technologies, I always seek to renew myself.
 
