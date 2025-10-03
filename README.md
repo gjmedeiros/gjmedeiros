@@ -1,11 +1,16 @@
-## Olá, Seja Bem Vindo ao meu GitHub ✌
+## Hello, Welcome to my GitHub ✌
 
-I am a FullStack developer, graduated in Computer Science (Bachelor). I have
-been working for 3 years with the Java Language, but I have knowledge of
-JavaScript both on the front-end and on the back-end. Enthusiastic about new
-technologies, I always seek to renew myself.
+Software Developer with 6+ years of experience, specialized in Java (Java 5–21, Spring Boot, Spring Data, Spring Security, JPA, Hibernate, JUnit) and Node.js (NestJS).
+Also skilled in front-end development with Angular and React.
 
-<div align="center">
+I have experience in:
+  * Maintaining and modernizing legacy systems
+  * Developing microservices and API integrations
+  * Cloud solutions (AWS) and messaging systems (RabbitMQ, SQS, AMQP)
+  * Low-code applications (Mendix)
+Worked on large-scale projects for companies like Vivo, Telefônica, BTG Pactual, and Porto Seguro.
+
+<!-- <div align="center">
   <a href="https://github.com/gjmedeiros">
     <img
       height="180em"
@@ -16,7 +21,7 @@ technologies, I always seek to renew myself.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjmedeiros&layout=compact&&theme=radical"
     />
   </a>
-</div>
+</div> -->
 
 <div style="display: inline_block">
   <br />
@@ -65,7 +70,8 @@ technologies, I always seek to renew myself.
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       target="_blank"
   /></a>
-  
+
+  <!--
   ![Snake animation](https://github.com/gjmedeiros/gjmedeiros/blob/output/github-contribution-grid-snake.svg)
-  
+  -->
 </div>
