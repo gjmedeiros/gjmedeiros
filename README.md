@@ -58,7 +58,7 @@ Worked on large-scale projects for companies like Vivo, Telefônica, BTG Pactual
 ##
 
 <div>
-  <a href="gabriel.m.goncalves@outlook.com"
+  <a href="gabriel.m.goncalves2@gmail.com"
     ><img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       target="_blank"
